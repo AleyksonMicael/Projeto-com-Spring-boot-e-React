@@ -1,2 +1,2 @@
 # Projeto-com-Spring-boot-e-React
-Projeto desenvolvido jutamente com o professor Nelio Alves com ferramenta de notificações via SMS e utilização de API rest.
+Projeto consiste em filtrar vendas em certo período através de datas para notificar vendedores que alcançaram suas metas.
