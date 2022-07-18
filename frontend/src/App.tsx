@@ -1,7 +1,8 @@
-import Header from "./components/Header"
-import Salescard from "./components/Salescard"
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
+import Header from "./components/Header"
+import Salescard from "./components/Salescard"
+
 
 function App() {
   return (
